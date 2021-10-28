@@ -1,1 +1,8 @@
 hm test
+git add filename.txt
+
+git commit -m "what u change it the file"
+
+git push
+
+git pull
