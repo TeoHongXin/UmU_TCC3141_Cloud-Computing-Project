@@ -1,4 +1,7 @@
 hm test
+git bash
+git config
+
 git add filename.txt
 
 git commit -m "what u change it the file"
