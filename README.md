@@ -2,16 +2,16 @@
 
 Hardware:
 
-Android and IOS smartphone
-Laptop
+- Android
+- Laptop
 
-Software
-Download the MIT A12 Companion version 2.61 in your phone to companion
-Windows: Windows 10
-Android Operating System 
-Web browser:Google Chrome Version 95.0.4638.54
+Software:
+- Download the MIT A12 Companion version 2.61 in your phone to companion
+- Windows: Windows 10
+- Android Operating System 
+- Web browser:Google Chrome Version 95.0.4638.54
 
-Platform
-Design App server:MIT APP INVENTOR
-Storage:TinyDB database
-Github version 2.33.0.windows.2
+Platform:
+- Design App server:MIT APP INVENTOR
+- Storage:Firebase
+- Github version 2.33.0.windows.2
