@@ -4,20 +4,19 @@
 2) Tool and platform used to implement the BMI calculator app:
 
 a) Hardware:
-
-  - Android
-  - Laptop
+- Android
+- Laptop
 
 b) Software:
-  - Download the MIT A12 Companion version 2.61 in your phone to companion
-  - Windows: Windows 10
-  - Android Operating System 
-  - Web browser:Google Chrome Version 95.0.4638.54
+- Download the MIT A12 Companion version 2.61 in your phone to companion
+- Windows: Windows 10
+- Android Operating System 
+- Web browser:Google Chrome Version 95.0.4638.54
 
 c) Platform:
-  - Design App server:MIT APP INVENTOR
-  - Storage:Firebase
-  - Github version 2.33.0.windows.2
+- Design App server:MIT APP INVENTOR
+- Storage:Firebase
+- Github version 2.33.0.windows.2
 
 3) Middlewares/APIs that you used to interconnect different software tools/platforms in your app:
 - Firebase Database
