@@ -1,8 +1,13 @@
-hm test
-git bash
-git config
+email: cloudcomputing0802@gmail.com
 
-git add filename.txt
+
+hm test
+
+git config —global user.name “HM”
+
+git config —global user.email “118@…..”
+
+git add .
 
 git commit -m "what u change it the file"
 
