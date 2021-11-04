@@ -25,7 +25,7 @@ Tool and platform used to implement the BMI calculator app
 
 Middlewares/APIs that you used to interconnect different software tools/platforms in your app
 =============================================================================================
--Firebase Database
+- Firebase Database
 
 Techniques that your team used to implement the version control on GitHub
 =========================================================================
