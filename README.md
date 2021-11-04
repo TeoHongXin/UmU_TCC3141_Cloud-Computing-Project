@@ -1,6 +1,7 @@
 #Tool and platform used to implement the BMI calculator app.
 
-Hardware
+Hardware:
+
 Android and IOS smartphone
 Laptop
 
