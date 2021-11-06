@@ -9,7 +9,7 @@ Tool and platform used to implement the BMI calculator app
 ==========================================================
 
 *Hardware:* 
-- Android
+- Android Phones
 - Laptop
 
 *Software:*
@@ -20,12 +20,12 @@ Tool and platform used to implement the BMI calculator app
 
 *Platform:*
 - Design App server:MIT APP INVENTOR
-- Storage:Firebase
+- Storage:Firebase Database
 - Github version 2.33.0.windows.2
 
 Middlewares/APIs that you used to interconnect different software tools/platforms in your app
 =============================================================================================
-- Firebase Database
+- Firebase Authentication
 
 Techniques that your team used to implement the version control on GitHub
 =========================================================================
